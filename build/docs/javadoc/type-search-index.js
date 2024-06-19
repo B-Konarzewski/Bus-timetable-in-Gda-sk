@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Rozklady_jazdy","l":"App"},{"p":"Rozklady_jazdy","l":"Przystanek"},{"p":"Rozklady_jazdy","l":"Window"}];updateSearchResults();
